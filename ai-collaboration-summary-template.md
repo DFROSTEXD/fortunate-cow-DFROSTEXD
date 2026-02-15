@@ -24,8 +24,7 @@ The AI gave me a list of different ways I could edit the eyes and tongue of the 
 
 **What effect did you observe from changing the instruction(s) to `copilot-instructions.md?**
 
-<!-- Did Copilot follow your instruction? How was the response different? -->
-
+Yes, response was different, the AI gave me an explanation for what it was going to change. It also asked me if it was ok to change the code and it gave me some other options.
 ---
 
 ## Reflection
@@ -34,11 +33,11 @@ Answer these questions thoughtfully. A few sentences each is fine.
 
 **What stretched you?**
 
-<!-- What felt challenging or pushed you outside your comfort zone? -->
+Giving the AI parameters when asked questions 
 
 **What did you learn?**
 
-<!-- What was the most useful thing you learned in this assignment? -->
+It was the ability to give the AI parameters and for the AI to stick with it, I found it very useful and it caters towards my needs.
 
 ---
 
