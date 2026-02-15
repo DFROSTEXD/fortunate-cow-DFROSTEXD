@@ -5,9 +5,9 @@ import * as cowsay from "cowsay";
 // Pick a theme that interests you: motivational quotes, coding tips,
 // jokes, song lyrics, advice to your future self — whatever you want.
 const fortunes = [
-  "Welcome to JavaScript!",
-  "Arrays start at index 0",
-  "Keep calm and code on",
+  "Remember to stay hydrated!",
+  "Never mine straight down",
+  "I don't got time for stress, no more time for disagreements",
 ];
 
 // Pick a random fortune
