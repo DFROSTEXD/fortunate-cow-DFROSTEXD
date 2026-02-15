@@ -1,6 +1,6 @@
 # AI collaboration summary
 
-**Student name:**
+**Student name: William Harvey**
 
 **Assignment:** Week 3 - Fortunate Cow
 
@@ -12,11 +12,11 @@ Document one meaningful interaction where you learned something or had to adjust
 
 **My prompt:**
 
-> <!-- Copy the prompt you used -->
+How do I change the eyes and tongue?
 
 **What happened:**
 
-<!-- What did Agent do? What did you learn? -->
+The AI gave me a list of different ways I could edit the eyes and tongue of the dragon, it also showed me a way to organize the code better.
 
 ---
 

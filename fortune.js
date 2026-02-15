@@ -15,4 +15,9 @@ const randomIndex = Math.floor(Math.random() * fortunes.length);
 const todaysFortune = fortunes[randomIndex];
 
 // Display the cow (or change the creature — it's your project!)
-console.log(cowsay.say({ text: todaysFortune }));
+console.log(cowsay.say({ 
+  text: todaysFortune, 
+  f: "dragon",
+  e: "^O",  // Eyes - try ^^, @@, $$, **, XX, etc.
+  T: "U "   // Tongue - must be 2 characters (note the space after U)
+}));
